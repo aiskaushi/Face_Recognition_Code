@@ -1,5 +1,5 @@
 
-# Requrement file for face recognition
+# Requirement file for face recognition
 
 ## Virtual Environment
 
