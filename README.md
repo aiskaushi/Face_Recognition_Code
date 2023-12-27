@@ -28,6 +28,11 @@ Install imutils
 ```bash
   pip install imutils
 ```
+Install cmake
+
+```bash
+  pip install cmake
+```
 dlib Library 
 
 ```bash
